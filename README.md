@@ -1,2 +1,2 @@
 # hello-world
-Get it started!
+I come in peace, usually.
